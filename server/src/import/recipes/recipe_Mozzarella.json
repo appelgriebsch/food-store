@@ -1,0 +1,78 @@
+{
+	"name": "Mozzarella mit Brunnenkresse-Granatapfel-Vinaigrette",
+	"servedPersons": 4,
+	"durationInMinutes": 30,
+	"photo": "/images/74_75_Mozzarella.jpg",
+	"ingredients": [
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "",
+			"item": "kleiner Granatapfel",
+			"itemPlural": "kleine Granatäpfel",
+			"tags": ["kleiner granatapfel", "granatapfel", "granatäpfel"]
+		},
+		{
+			"minQuantity": 150,
+			"maxQuantity": 150,
+			"unit": "g",
+			"item": "Brunnenkresse",
+			"tags": ["brunnenkresse", "kresse"]
+		},
+		{
+			"minQuantity": 2,
+			"maxQuantity": 2,
+			"unit": "Kugel",
+			"unitPlural": "Kugeln",
+			"item": "Büffelmozzarella",
+			"tags": ["büffelmozzarella", "mozzarella"]
+		},
+		{
+			"minQuantity": 6,
+			"maxQuantity": 6,
+			"unit": "EL",
+			"item": "Olivenöl",
+			"tags": ["olivenöl", "öl", "speiseöl", "pflanzenöl"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "EL",
+			"item": "Zitronensaft",
+			"tags": ["zitronensaft", "zitrone", "zitronen", "saft"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Salz",
+			"tags": ["salz", "speisesalz"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Pfeffer",
+			"tags": ["pfeffer", "gemahlener Pfeffer"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Zucker",
+			"tags": ["zucker", "raffinade", "raffinade-zucker"]
+		}
+	],
+	"steps": [
+		{
+			"description": "Den Granatapfel einschneiden, aufbrechen und die Kerne herauslösen. Brunnenkresse putzen, waschen und trocken schleudern. Die Blätter abzupfen und die Stiele klein schneiden. Mozzarella abtropfen lassen, in Scheiben schneiden und auf einer Platte anrichten."
+		},
+		{
+			"description": "3 EL Olivenöl in einer Pfanne erhitzen. Die Brunnenkressestiele darin 1—2 Minuten andünsten. Granatapfelkerne und Brunnenkresseblätter zugeben und 1 Minute mitdünsten. Mit Zitronensaft, Salz, Pfeffer und 1 Prise Zucker abschmecken und etwas abkühlen lassen."
+		},
+		{
+			"description": "Die Brunnenkressemischung über dem Mozzarella verteilen und mit dem restlichen Olivenöl beträufelt servieren."
+		}
+	],
+	"type": "Recipe"
+}

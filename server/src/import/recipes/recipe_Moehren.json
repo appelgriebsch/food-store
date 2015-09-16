@@ -1,0 +1,86 @@
+{
+	"name": "Möhren mit Möhren-Vinaigrette, Hüttenkäse und Daikon-Kresse",
+	"servedPersons": 4,
+	"durationInMinutes": 20,
+	"photo": "/images/152_153_Moehren.jpg",
+	"ingredients": [
+		{
+			"minQuantity": 8,
+			"maxQuantity": 8,
+			"unit": "",
+			"item": "Möhre",
+			"itemPlural": "Möhren",
+			"tags": ["möhre", "möhren", "karotte", "karotten"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Salz",
+			"tags": ["salz", "speisesalz"]
+		},
+		{
+			"minQuantity": 2,
+			"maxQuantity": 2,
+			"unit": "",
+			"item": "Schalotte",
+			"itemPlural": "Schalotten",
+			"tags": ["schalotten", "schalotte"]
+		},
+		{
+			"minQuantity": 100,
+			"maxQuantity": 100,
+			"unit": "ml",
+			"item": "Möhrensaft",
+			"tags": ["möhrensaft", "möhre", "möhren", "karotte", "karotten", "saft"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "EL",
+			"item": "Sherryessig",
+			"tags": ["sherryessig", "essig", "apfelessig", "weißweinessig"]
+		},
+		{
+			"minQuantity": 3,
+			"maxQuantity": 4,
+			"unit": "EL",
+			"item": "Olivenöl",
+			"tags": ["olivenöl", "öl", "speiseöl", "pflanzenöl"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Pfeffer",
+			"tags": ["pfeffer", "gemahlener pfeffer"]
+		},
+		{
+			"minQuantity": 200,
+			"maxQuantity": 200,
+			"unit": "g",
+			"item": "Hüttenkäse",
+			"tags": ["hüttenkäse", "frischkäse", "käse"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "Beet",
+			"unitPlural": "Beete",
+			"item": "Daikon-Kresse",
+			"tags": ["daikon-kresse", "daikon", "kresse", "brunnenkresse", "bachkresse"]
+		}
+	],
+	"steps": [
+		{
+			"description": "Möhren schälen und in kräftig gesalzenem Wasser 10 Minuten kochen. Herausnehmen und abkühlen lassen."
+		},
+		{
+			"description": "Schalotten schälen und in feine Ringe schneiden, mit Möhrensaft und Sherryessig verrühren. Das Olivenöl mit einem Schneebesen tröpfchenweise einrühren. Die Vinaigrette mit Salz und Pfeffer würzen."
+		},
+		{
+			"description": "Vinaigrette auf tiefe Teller verteilen. Möhren in 4—5 cm lange Stücke schneiden und aufrecht in den Tellern anrichten. Mit Hüttenkäse und Daikon-Kresse toppen."
+		}
+	],
+	"type": "Recipe"
+}

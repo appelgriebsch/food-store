@@ -1,0 +1,67 @@
+#instructions
+  width: 100%
+  height: 500px
+
+  position: absolute
+  bottom: 0
+  left: 0
+
+  background: linear-gradient(top, 0% rgba(black, 0.0), 100% rgba(black, 0.6))
+
+  opacity: 0
+  transition: opacity 0.3s ease-out
+  &.visible
+    opacity: 1
+
+  .instruction
+    width: 750px
+    height: 500px
+
+    position: absolute
+    bottom: 0
+    left: 50%
+
+    width: 750px
+    margin-left: -375px
+
+    opacity: 0
+    transform: translateY(50px)
+    transition: all 0.8s ease-out
+    &.visible
+      opacity: 1
+      transform: translateY(0)
+
+    .instructions-hand, .instructions-hand-overlay
+      background-position: bottom center
+      background-repeat: no-repeat
+
+.instructions-hand, .instructions-hand-overlay
+  height: 350px
+  margin-bottom: 50px
+
+.instructions-hand-overlay
+  width: 100%
+  height: 350px
+  position: absolute
+  top: 0
+
+.instructions-text
+  @extend .bold
+  @extend .italic
+
+  color: white
+  font-size: 30px
+
+  text-align: center
+
+#instructions-move
+  .instructions-hand
+    background-image: url("/images/instructions/move.png")
+
+#instructions-click
+  .instructions-hand
+    background-image: url("/images/instructions/point.png")
+
+#instructions-circle
+  .instructions-hand
+    background-image: url("/images/instructions/circle.png")

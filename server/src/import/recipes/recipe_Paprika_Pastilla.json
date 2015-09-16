@@ -1,0 +1,154 @@
+{
+	"name": "Paprika-Pastilla",
+	"servedPersons": 2,
+	"durationInMinutes": 35,
+	"photo": "/images/93_93_Paprika_Pastilla.jpg",
+	"ingredients": [
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "",
+			"item": "rote Paprikaschote",
+			"itemPlural": "rote Paprikaschoten",
+			"tags": ["rote paprikaschote", "paprikaschote", "rote paprika", "paprika"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "",
+			"item": "grüne Paprikaschote",
+			"itemPlural": "grüne Paprikaschoten",
+			"tags": ["grüne paprikaschote", "paprikaschote", "grüne paprika", "paprika"]
+		},
+		{
+			"minQuantity": 2,
+			"maxQuantity": 2,
+			"unit": "",
+			"item": "Knoblauchzehe",
+			"itemPlural": "Knoblauchzehen",
+			"tags": ["knoblauchzehe", "knoblauchzehen", "knoblauch"]
+		},
+		{
+			"minQuantity": 80,
+			"maxQuantity": 80,
+			"unit": "g",
+			"item": "getrocknete Datteln ohne Stein",
+			"tags": ["getrocknete datteln ohne stein", "getrocknete datteln", "dattel", "datteln"]
+		},
+		{
+			"minQuantity": 10,
+			"maxQuantity": 10,
+			"unit": "g",
+			"item": "Ingwerwurzel",
+			"tags": ["ingwerwurzel", "ingwerwurzeln", "ingwer"]
+		},
+		{
+			"minQuantity": 100,
+			"maxQuantity": 100,
+			"unit": "g",
+			"item": "Fadennudeln",
+			"tags": ["fadennudeln", "fadennudel", "faden", "nudel", "nudeln"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Salz",
+			"tags": ["salz", "speisesalz"]
+		},
+		{
+			"minQuantity": 3,
+			"maxQuantity": 3,
+			"unit": "EL",
+			"item": "Olivenöl",
+			"tags": ["olivenöl", "öl", "speiseöl", "pflanzenöl"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "TL",
+			"item": "Harissa-Paste",
+			"tags": ["harissa-paste", "harissa", "paste"]
+		},
+		{
+			"minQuantity": 0.5,
+			"maxQuantity": 0.5,
+			"unit": "TL",
+			"item": "Kreuzkümmel",
+			"tags": ["kreuzkümmel", "kümmel"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "",
+			"item": "Zitrone",
+			"itemPlural": "Zitronen",
+			"tags": ["zitrone", "zitronen"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Kurkuma",
+			"tags": ["kurkuma", "currypulver", "curry"]
+		},
+		{
+			"minQuantity": 4,
+			"maxQuantity": 4,
+			"unit": "Stängel",
+			"item": "Koriander",
+			"tags": ["koriander"]
+		},
+		{
+			"minQuantity": 4,
+			"maxQuantity": 4,
+			"unit": "Stängel",
+			"item": "Petersilie",
+			"tags": ["petersilie"]
+		},
+		{
+			"minQuantity": 2,
+			"maxQuantity": 3,
+			"unit": "EL",
+			"item": "Zitronensaft",
+			"tags": ["zitronensaft", "zitrone", "zitronen", "saft"]
+		},
+		{
+			"minQuantity": 40,
+			"maxQuantity": 40,
+			"unit": "g",
+			"item": "Butter",
+			"tags": ["butter"]
+		},
+		{
+			"minQuantity": 6,
+			"maxQuantity": 6,
+			"unit": "",
+			"item": "Yufka-Teigblatt",
+			"itemPlural": "Yufka-Teigblätter",
+			"tags": ["yufka-teigblätter", "yufka", "teigblätter"]
+		},
+		{
+			"minQuantity": 6,
+			"maxQuantity": 6,
+			"unit": "EL",
+			"item": "Öl",
+			"tags": ["öl", "speiseöl", "pflanzenöl"]
+		}
+	],
+	"steps": [
+		{
+			"description": "Paprika waschen, vierteln, entkernen und in feine Streifen schneiden. Knoblauch schälen und fein würfeln, die Datteln in feine Streifen schneiden. Ingwer schälen und fein reiben. Fadennudeln nach Packungsanweisung in Salzwasser kochen, in kaltem Wasser abschrecken und stückig schneiden."
+		},
+		{
+			"description": "Olivenöl in einer großen Pfanne erhitzen. Paprika, Knoblauch und Datteln darin 4 Minuten braten. Die Nudeln zugeben und mit Harissa-Paste, Kreuzkümmel, 1 Prise Kurkuma und dem geriebenen Ingwer würzen. 1 Minute braten und mit Salz würzen. Koriander und Petersilie hacken und untermengen. Mit Zitronensaft abschmecken, beiseitestellen."
+		},
+		{
+			"description": "Butter in einem kleinen Topf schmelzen. 1 Yufka-Teigblatt mit Butter bestreichen, ein weiteres Blatt darüberlegen, dünn mit Butter bepinseln und ein weiteres Blatt auflegen. Die Hälfte der Füllung mittig darauf anrichten. Eine Ecke des Teiges über die Füllung legen und dünn mit Butter bepinseln. So verfahren, bis die Füllung komplett bedeckt ist. Mit den übrigen Zutaten eine weitere Pastilla zubereiten."
+		},
+		{
+			"description": "Öl in einer großen beschichteten Pfanne erhitzen. Nacheinander die Pastilla auf der gefalteten Seite bei milder Hitze 2—3 Minuten braten, wenden und nochmals 2—3 Minuten braten."
+		}
+	],
+	"type": "Recipe"
+}

@@ -1,0 +1,27 @@
+.box.cover
+  display: inline-block
+
+  .cover-image
+    background-size: contain
+    background-repeat: no-repeat
+    background-position: center
+    background-image: url("/images/book-cover.png")
+
+  .cover-info
+    white-space: normal
+    text-align: center
+
+  .cover-headline, .cover-copyright
+    @extend .italic
+
+    font-size: 20px
+    color: primary_font_color
+
+    padding-top: 40px
+
+
+  .cover-copyright
+    padding: 0
+    font-size: 16px
+
+    color: secondary_font_color

@@ -1,0 +1,110 @@
+{
+	"name": "Kürbispüree mit gegrillter Zucchini und Ziegenfrischkäse",
+	"servedPersons": 4,
+	"durationInMinutes": 70,
+	"photo": "/images/206_207_Kuerbispueree.jpg",
+	"ingredients": [
+		{
+			"minQuantity": 1400,
+			"maxQuantity": 1400,
+			"unit": "g",
+			"item": "Hokkaido-Kürbis",
+			"tags": ["hokkaido-kürbis", "hokkaido", "kürbis"]
+		},
+		{
+			"minQuantity": 2,
+			"maxQuantity": 2,
+			"unit": "EL",
+			"item": "gemahlene Mandeln",
+			"tags": ["gemahlene mandeln", "mandeln"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Zitronensaft",
+			"tags": ["zitronensaft", "zitrone", "zitronen", "saft"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Salz",
+			"tags": ["salz", "speisesalz"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Zucker",
+			"tags": ["zucker", "raffinade", "raffinade-zucker"]
+		},
+		{
+			"minQuantity": 4,
+			"maxQuantity": 4,
+			"unit": "",
+			"item": "kleine Zucchini",
+			"tags": ["kleine zucchini", "zucchini"]
+		},
+		{
+			"minQuantity": 2,
+			"maxQuantity": 2,
+			"unit": "EL",
+			"item": "Olivenöl",
+			"tags": ["olivenöl", "öl", "speiseöl", "pflanzenöl"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Pfeffer",
+			"tags": ["pfeffer", "gemahlener Pfeffer"]
+		},
+		{
+			"minQuantity": 4,
+			"maxQuantity": 4,
+			"unit": "EL",
+			"item": "Kürbiskerne",
+			"tags": ["kürbiskerne", "kürbiskern", "kürbis"]
+		},
+		{
+			"minQuantity": 2,
+			"maxQuantity": 2,
+			"unit": "EL",
+			"item": "flüssiger Honig",
+			"tags": ["flüssiger honig", "honig", "bienenhonig", "flüssig"]
+		},
+		{
+			"minQuantity": 4,
+			"maxQuantity": 4,
+			"unit": "Taler",
+			"item": "Picandou (Ziegenfrischkäse)",
+			"tags": ["picandou", "ziegenfrischkäse", "frischkäse", "ziegenkäse"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Kürbiskernöl",
+			"tags": ["kürbiskernöl", "kürbisöl", "öl"]
+		}
+	],
+	"steps": [
+		{
+			"description": "Kürbis halbieren, die Kerne mit einem Esslöffel herausschaben. Die Kürbishälften auf einem Blech im vorgeheizten Ofen bei 180 Grad auf der zweiten Schiene von unten 45 Minuten weichbacken."
+		},
+		{
+			"description": "Das Kürbisfleisch mit einem Esslöffel aus der Schale lösen und im Mixer mit den gemahlenen Mandeln cremig-fein pürieren. Mit 1 Spritzer Zitronensaft, Salz und 1 Prise Zucker abschmecken. In einem Topf erhitzen. Warm stellen."
+		},
+		{
+			"description": "Zucchini längs in dünne Scheiben schneiden, mit Olivenöl mischen und in einer Grillpfanne portionsweise grillen. Mit Salz und Pfeffer würzen."
+		},
+		{
+			"description": "Kürbiskerne grob hacken und in einer Pfanne ohne Fett erwärmen, den Honig zugeben und vom Herd ziehen."
+		},
+		{
+			"description": "Zucchini auf vorgewärmten Tellern anrichten. Kürbispüree in kleinen Nocken auf die Zucchini setzen. (Übriges Kürbispüree separat dazu servieren). Das Gericht mit zerbröseltem Ziegenkäse und den Kürbiskernen bestreuen. Mit wenigen Tropfen Kürbiskernöl beträufelt sofort servieren."
+		}
+	],
+	"type": "Recipe"
+}

@@ -1,0 +1,25 @@
+%h3= demand
+
+%ul.shoppinglist-items
+  - each item in items
+    - item = item.item
+    %li.item{ "data-id": item._id }
+      .item-name
+        .name-brand= item.brand
+        .name-name= item.name
+
+      .item-social
+        - if (isPromotional(item))
+          .social-facebook{ class: (loggedIn("facebook")?"active":"") }
+          .social-twitter{ class: (loggedIn("twitter")?"active":"") }
+
+          .loading.loading-facebook
+          .loading.loading-twitter
+
+      .item-price{ class: (isPromotional(item)?"price-promotional":"") }
+        - if(isPromotional(item))
+          .price-old= formatPrice(item.price)
+          .price-price= formatPrice(item.promo)
+        - else
+          .price-price= formatPrice(item.price)
+

@@ -1,0 +1,30 @@
+
+{
+  "result": "success",
+  "data": {
+    "results": [
+      {
+        "demand": "MÃ¶hre",
+        "items": [
+          {
+            "_id": "mhren-aus-der-region"
+          }
+        ]
+      },
+      {
+        "demand": "MÃ¶hrensaft",
+        "items": [
+          {
+            "_id": "bio-mhrensaft-500ml-flasche"
+          },
+          {
+            "_id": "mhren-aus-der-region"
+          },
+          {
+            "_id": "bio-zitronensaft-200ml"
+          }
+        ]
+      }
+    ]
+  }
+}

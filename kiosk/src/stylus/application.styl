@@ -1,0 +1,48 @@
+@import "nib"
+
+screen_width = 1920
+screen_height = 1080
+box_size = 700
+
+primary_font = "Palatino Linotype", Palatino, "Book Antiqua", "URW Palladio L", serif
+primary_font_color = #494320
+secondary_font_color = #6e6427
+
+global-reset()
+
+@import "_base"
+@import "_pointer"
+@import "_box"
+@import "_recipes"
+@import "_steps"
+@import "_ingredients"
+@import "_persons"
+@import "_back"
+@import "_instructions"
+@import "_calibration"
+@import "_cover"
+
+/** DEBUG **/
+#debug
+  display: none
+
+  position: absolute
+  top: 0
+  left: 0
+
+  padding: 10px
+  background: black
+  color: white
+
+  font: normal 14px monospace
+
+/** Hidden recalibration button **/
+#recalibrate-button
+  width: 100px
+  height: 100px
+
+  display: block
+
+  position: absolute
+  right: 0
+  top: 0

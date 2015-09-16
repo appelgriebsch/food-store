@@ -1,0 +1,23 @@
+{
+    "version": "1",
+    "name": "Easy Dinner",
+    "description": "a mobile shopping list",
+    "launch_path": "index.html",
+    "developer": {
+        "name": "Appelgriebsch",
+        "url": "http://codelabs.appelgriebsch.com"
+    },
+    "default_locale": "en",
+    "installs_allowed_from": ["*"],
+    "icons": {
+        "128": "/img/bags.png"
+    },
+    "permissions": {
+        "desktop-notification": {
+            "description": "For showing desktop notifications"
+        },
+        "geolocation": {
+            "description": "For location based services"
+        }
+    }
+}

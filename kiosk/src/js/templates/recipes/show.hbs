@@ -1,0 +1,31 @@
+<div id="recipes-show" data-leap-scroll-view>
+  <div id="back" data-leap>
+    <img src="/images/back.png" alt="Back" />
+  </div>
+
+  {{!-- Recipe image --}}
+  <div class="box recipe">
+    {{> recipeImage}}
+  </div>
+
+  {{!-- Ingredients list --}}
+  <div class="box ingredients">
+    <h1>Zutaten für <span class="recipe-persons">{{servedPersons}}</span> Personen</h1>
+
+    <div id="recipe-ingredients"></div>
+    <div id="ingredients-qrcode"></div>
+  </div>
+
+  {{!-- Steps --}}
+  {{#each steps}}
+    <div class="box step-text">
+      <h1>&nbsp;</h1>
+      <div class="step-description">{{description}}</div>
+    </div>
+  {{/each}}
+</div>
+
+<div id="persons-control">
+  <div id="persons">{{servedPersons}}</div>
+  <div id="persons-text">Personen</div>
+</div>

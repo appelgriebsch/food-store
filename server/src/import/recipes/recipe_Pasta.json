@@ -1,0 +1,93 @@
+{
+	"name": "Pasta mit geraspelter Fenchel-Tomaten-Sauce",
+	"servedPersons": 4,
+	"durationInMinutes": 15,
+	"photo": "/images/148_149_Pasta.jpg",
+	"ingredients": [
+		{
+			"minQuantity": 400,
+			"maxQuantity": 400,
+			"unit": "g",
+			"item": "Spaghetti",
+			"tags": ["spaghetti", "spagetti", "pasta", "nudeln", "nudel"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Salz",
+			"tags": ["salz", "speisesalz"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "",
+			"item": "Fenchelknolle",
+			"itemPlural": "Fenchelknollen",
+			"tags": ["fenchelknolle", "fenchel"]
+		},
+		{
+			"minQuantity": 4,
+			"maxQuantity": 4,
+			"unit": "",
+			"item": "Tomate",
+			"itemPlural": "Tomaten",
+			"tags": ["tomate", "tomaten"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "",
+			"item": "Zitrone",
+			"itemPlural": "Zitronen",
+			"tags": ["zitrone", "zitronen"]
+		},
+		{
+			"minQuantity": 8,
+			"maxQuantity": 8,
+			"unit": "EL",
+			"item": "Olivenöl",
+			"tags": ["olivenöl", "öl", "speiseöl", "pflanzenöl"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Salz",
+			"tags": ["salz", "speisesalz"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Pfeffer",
+			"tags": ["pfeffer", "gemahlener Pfeffer"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Zucker",
+			"tags": ["zucker", "raffinade", "raffinade-zucker"]
+		},
+		{
+			"minQuantity": 60,
+			"maxQuantity": 60,
+			"unit": "g",
+			"item": "frisch gehobelter Räucherricotta",
+			"tags": ["frisch gehobelter räucherricotta", "räucherricotta", "ricotta"]
+		}
+	],
+	"steps": [
+		{
+			"description": "Spaghetti nach Packungsanweisung in kochendem Salzwasser bissfest garen. Spaghetti in ein Sieb abgießen, dabei 150 ml Nudelwasser auffangen."
+		},
+		{
+			"description": "Inzwischen Fenchel putzen, waschen und das Fenchelgrün beiseitestellen. Küchenreibe in eine große Schüssel stellen. Fenchel und Tomaten darauf grob raspeln. Zitronensaft auspressen und mit 4 EL Olivenöl untermischen. Mit Salz, Pfeffer und Zucker abschmecken."
+		},
+		{
+			"description": "Nudeln, Nudelwasser und restliches Olivenöl zur Sauce geben und mit Salz und Pfeffer abschmecken. Mit Fenchelgrün und Käse bestreut servieren."
+		}
+	],
+	"type": "Recipe"
+}

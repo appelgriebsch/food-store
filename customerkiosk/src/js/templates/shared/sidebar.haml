@@ -1,0 +1,37 @@
+#user
+  Welcome
+  #username= customer.name
+
+.separator
+
+Social Coins:
+%span#social-coins-value= customer.social_coins
+
+.social-coins
+  - for (var i = 0; i < 10; i++)
+    .coin{ class: (customer.social_coins > i?"active":"") }
+
+.separator
+
+#tip
+  Tip:
+  #tip-content
+    Share deals on Twitter or
+    Facebook to collect social points!
+
+%ul#navigation
+  %li
+    %a#sidebar-check-in.blue-btn{ href: "#" }
+      %span.btn-check-in.btn-icon
+      %span.btn-loading
+      Check In
+
+  %li
+    %a#sidebar-share.blue-btn{ href: "#" }
+      %span.btn-share.btn-icon
+      Share List
+
+  %li
+    %a.grey-btn{ href: "#" }
+      %span.btn-back.btn-icon
+      Back

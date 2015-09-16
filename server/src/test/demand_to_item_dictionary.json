@@ -1,0 +1,14 @@
+[
+	{
+		"searchTerms":	["tiefkühlpizza", "pizza", "tk", "fertiggericht"],
+		"item":			"Die Ofenfrische Salami (Dr. Oetker) 500g",
+		"quantity": 	"1",
+		"unit": 		""
+	},
+	{
+		"searchTerms":	["bier", "pils", "pilsener"],
+		"item":			"Fiege Pils 0,33L Dose",
+		"quantity": 	0.33,
+		"unit": 		"l"
+	}
+]

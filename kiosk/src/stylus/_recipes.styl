@@ -1,0 +1,59 @@
+#recipes-index, #recipes-show
+  float: left
+  white-space: nowrap
+
+  padding-top: (screen_height - box_size) * 0.5 px
+
+  font-size: 0
+
+  padding-left: 220px
+  padding-right: 220px
+
+  transition: opacity 0.5s ease-out
+  opacity: 1
+
+  &.faded
+    opacity: 0.3
+
+#recipes-show
+  padding-left: 70px
+  .recipe
+    margin-left: 240px
+
+.recipe
+  > *
+    text-decoration: none
+    text-align: center
+
+  .recipe-info
+    position: relative
+    height: 120px
+
+  .recipe-name
+    @extend .bold
+    @extend .italic
+
+    color: primary_font_color
+    font-size: 36px
+
+    position: absolute
+    bottom: 55px
+    width: 100%
+
+  .recipe-servings
+    @extend .italic
+
+    color: secondary_font_color
+    font-size: 24px
+
+    position: absolute
+    top: 65px
+    width: 100%
+
+  .recipe-link
+    width: 100%
+    height: 100%
+    display: block
+
+#recipes-list
+  display: inline-block

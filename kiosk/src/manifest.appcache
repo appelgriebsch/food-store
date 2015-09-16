@@ -1,0 +1,28 @@
+CACHE MANIFEST
+# version 0.1.2
+
+index.html
+manifest.appcache
+recipes.json
+css/application.css
+fonts/fontawesome-webfont.eot
+fonts/fontawesome-webfont.ttf
+fonts/fontawesome-webfont.woff
+fonts/FontAwesome.otf
+images/back.png
+images/background.png
+images/book-cover.png
+images/calibration-box.png
+images/circle.png
+images/recipe-box.png
+images/recipe-image-box.png
+images/instructions/circle.png
+images/instructions/click.png
+images/instructions/move.png
+images/instructions/point.png
+js/init.js
+js/jquery.min.js
+js/require.min.js
+
+NETWORK:
+*

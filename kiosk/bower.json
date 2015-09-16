@@ -1,0 +1,25 @@
+{
+  "name": "food-store-kiosk",
+  "version": "0.0.1",
+  "authors": [
+    "Appelgriebsch <info@appelgriebsch.com>"
+  ],
+  "description": "An HTML5 client to look for recipes",
+  "main": "index.html",
+  "private": true,
+  "ignore": [
+    "node_modules"
+  ],
+  "dependencies": {
+    "chaplin": "0.11.x",
+    "backbone": "1.x",
+    "underscore": "1.x",
+    "handlebars": "1.x",
+    "uikit": "1.x",
+    "requirejs-text": "~2.0.10",
+    "backbone-relational": "~0.8.6",
+    "nib": "~1.0.0",
+    "leapjs": "git://github.com/deckar01/LeapJS#master",
+    "qrcode": "git://github.com/davidshimjs/qrcodejs.git#51abe3156aa816ee8ee23452c69ef798265cafd0"
+  }
+}

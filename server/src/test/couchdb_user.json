@@ -1,0 +1,7 @@
+{
+	"_id": "org.couchdb.user:foodstore",
+	"name": "foodstore",
+	"password": "",
+	"roles": [],
+	"type": "user"
+}

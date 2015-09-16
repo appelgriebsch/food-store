@@ -1,0 +1,168 @@
+{
+	"name": "Grünes Dschungel-Curry",
+	"servedPersons": 4,
+	"durationInMinutes": 60,
+	"photo": "/images/234_235_Dschungel-Curry.jpg",
+	"ingredients": [
+		{
+			"minQuantity": 3,
+			"maxQuantity": 3,
+			"unit": "",
+			"item": "Schalotte",
+			"itemPlural": "Schalotten",
+			"tags": ["schalotte", "schalotten"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "",
+			"item": "Süßkartoffel",
+			"itemPlural": "Süßkartoffeln",
+			"tags": ["süßkartoffel", "süßkartoffeln", "kartoffel", "kartoffeln"]
+		},
+		{
+			"minQuantity": 100,
+			"maxQuantity": 100,
+			"unit": "g",
+			"item": "Champignons",
+			"tags": ["champignon", "champignons", "pilz", "pilze"]
+		},
+		{
+			"minQuantity": 150,
+			"maxQuantity": 150,
+			"unit": "g",
+			"item": "Babymais",
+			"tags": ["babymais", "mais"]
+		},
+		{
+			"minQuantity": 100,
+			"maxQuantity": 100,
+			"unit": "g",
+			"item": "Zuckerschoten",
+			"tags": ["zuckerschote", "zuckerschoten", "zucker-schote", "zucker-schoten"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "",
+			"item": "kleine gelbe Zucchini",
+			"tags": ["kleine zucchini", "gelbe zucchini", "zucchini"]
+		},
+		{
+			"minQuantity": 100,
+			"maxQuantity": 100,
+			"unit": "g",
+			"item": "Kirschtomaten",
+			"tags": ["kirschtomaten", "kirschtomate", "cocktailtomate", "cocktailtomaten", "cocktail", "cherrytomate", "cherrytomaten", "tomate", "tomaten"]
+		},
+		{
+			"minQuantity": 4,
+			"maxQuantity": 4,
+			"unit": "",
+			"item": "Frühlingszwiebel",
+			"itemPlural": "Frühlingszwiebeln",
+			"tags": ["frühlingszwiebel", "frühlingszwiebeln", "zwiebel", "zwiebeln"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "",
+			"item": "Bio-Limette",
+			"itemPlural": "Bio-Limetten",
+			"tags": ["bio-limette", "bio-limetten", "limette", "limetten"]
+		},
+		{
+			"minQuantity": 200,
+			"maxQuantity": 200,
+			"unit": "g",
+			"item": "Wasserkastanien",
+			"tags": ["wasserkastanie", "wasserkastanien", "kastanie", "kastanien"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "",
+			"item": "kleine Aubergine",
+			"itemPlural": "kleine Auberginen",
+			"tags": ["kleine aubergine", "aubergine", "auberginen"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "",
+			"item": "rote Chillischote",
+			"itemPlural": "rote Chillischoten",
+			"tags": ["rote chillischote", "rote chillischoten", "chillischote", "chillischoten", "chilischote", "chilischoten", "chilli", "chili"]
+		},
+		{
+			"minQuantity": 500,
+			"maxQuantity": 500,
+			"unit": "ml",
+			"item": "ungesüßte Kokosmilch",
+			"tags": ["ungesüßte kokosmilch", "kokosmilch"]
+		},
+		{
+			"minQuantity": 200,
+			"maxQuantity": 200,
+			"unit": "ml",
+			"item": "Gemüsebrühe",
+			"tags": ["gemüsebrühe", "brühe"]
+		},
+		{
+			"minQuantity": 3,
+			"maxQuantity": 3,
+			"unit": "EL",
+			"item": "Öl",
+			"tags": ["öl", "speiseöl", "pflanzenöl"]
+		},
+		{
+			"minQuantity": 2,
+			"maxQuantity": 4,
+			"unit": "EL",
+			"item": "Currypaste",
+			"tags": ["currypaste", "curry", "paste"]
+		},
+		{
+			"minQuantity": 6,
+			"maxQuantity": 6,
+			"unit": "",
+			"item": "Kaffirblatt",
+			"itemPlural": "Kaffirblätter",
+			"tags": ["kaffirblätter", "kaffirblatt", "kaffir"]
+		},
+		{
+			"minQuantity": 6,
+			"maxQuantity": 6,
+			"unit": "Stiel",
+			"unitPlural": "Stiele",
+			"item": "Thaibasilikum",
+			"tags": ["thaibasilikum", "thai", "basilikum"]
+		},
+		{
+			"minQuantity": 6,
+			"maxQuantity": 6,
+			"unit": "Stiel",
+			"unitPlural": "Stiele",
+			"item": "Koriandergrün",
+			"tags": ["koriandergrün", "koriander"]
+		}
+	],
+	"steps": [
+		{
+			"description": "Schalotten schälen und in dünne Scheiben schneiden. Süßkartoffel schälen, längs halbieren und quer in ca. 0,5 cm dünne Scheiben schneiden. Champignons putzen und je nach Größe vierteln oder halbieren. Babymais und Zuckerschoten putzen und längs halbieren. Zucchini waschen, putzen, längs halbieren und in ca. 0,5 cm dünne Scheiben schneiden."
+		},
+		{
+			"description": "Kirschtomaten waschen und halbieren. Frühlingszwiebeln putzen und in ca. 4 cm lange Stücke schneiden. Limette abwaschen und vierteln. Wasserkastanien abspülen und in Scheiben schneiden. Aubergine waschen, putzen und in ca. 2 cm große Würfel schneiden. Chilischote schräg in dünne Scheiben schneiden."
+		},
+		{
+			"description": "Kokosmilch und Gemüsebrühe in einem kleinen Topf erwärmen."
+		},
+		{
+			"description": "Öl in einem weiteren Topf erhitzen, Schalotten darin glasig dünsten. Currypaste zugeben und 1—2 Minuten mitdünsten. Süßkartoffeln zugeben und 2—3 Minuten unter Rühren dünsten. Kaffirblätter und Kokosmilch-Brühe zufügen und aufkochen lassen. Zucchini und Auberginen zugeben und 5 Minuten bei mittlerer Hitze garen. Champignons und Wasserkastanien zugeben und weitere 3—4 Minuten garen. Kirschtomaten, Babymais, Zuckerschoten und Frühlingszwiebeln zugeben und in 2—3 Minuten zu Ende garen. Mit Salz und 1 Prise Zucker abschmecken."
+		},
+		{
+			"description": "Kräuterblätter abzupfen und mit den Limettenvierteln und der Chilischote zum Curry geben. Dazu passt Jasmin-Duftreis."
+		}
+	],
+	"type": "Recipe"
+}

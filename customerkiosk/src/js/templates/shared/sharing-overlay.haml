@@ -1,0 +1,29 @@
+%form#sharing-form{ action: "#" }
+  .overlay-content
+    .overlay-box.sharing-text-box
+      #sharing-text
+      .sharing-text-bar
+        .sharing-bar-networks
+          %label#network-facebook-wrapper
+            %input#network-facebook{ type: "checkbox", name: "networks", value: "facebook" }
+            Facebook
+
+          %label#network-twitter-wrapper
+            %input#network-twitter{ type: "checkbox", name: "networks", value: "twitter" }
+            Twitter
+
+        .sharing-bar-buttons
+          .sharing-button-left
+            %div
+          .sharing-button-right
+            %div
+
+    %ul.overlay-box.sharing-list-box.disabled#friendlists
+      - each friendlist in customer.friendlists
+        %li{ "data-id": friendlist.id }= truncate(friendlist.name, 10)
+
+    .overlay-buttons
+      %input.blue-btn{ type: "submit", value: "Send" }
+      %input.grey-btn#sharing-cancel{ type: "button", value: "Cancel" }
+
+    .loading

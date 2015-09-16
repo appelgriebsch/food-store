@@ -1,0 +1,115 @@
+{
+	"name": "Flammkuchen »italiano« mit Lauch",
+	"servedPersons": 4,
+	"durationInMinutes": 180,
+	"photo": "/images/208_209_Flammkuchen.jpg",
+	"ingredients": [
+		{
+			"minQuantity": 10,
+			"maxQuantity": 10,
+			"unit": "g",
+			"item": "Hefe",
+			"tags": ["hefe", "backhefe"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Zucker",
+			"tags": ["zucker", "raffinade"]
+		},
+		{
+			"minQuantity": 250,
+			"maxQuantity": 250,
+			"unit": "g",
+			"item": "Mehl",
+			"tags": ["mehl", "weizenmehl"]
+		},
+		{
+			"minQuantity": 100,
+			"maxQuantity": 100,
+			"unit": "ml",
+			"item": "Buttermilch",
+			"tags": ["buttermilch"]
+		},
+		{
+			"minQuantity": 10,
+			"maxQuantity": 12,
+			"unit": "EL",
+			"item": "Olivenöl",
+			"tags": ["olivenöl", "öl", "pflanzenöl"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Salz",
+			"tags": ["salz", "speisesalz"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 2,
+			"unit": "",
+			"item": "Knoblauchzehe",
+			"itemPlural": "Knoblauchzehen",
+			"tags": ["knoblauchzehen", "knoblauchzehe", "knoblauch"]
+		},
+		{
+			"minQuantity": 80,
+			"maxQuantity": 80,
+			"unit": "g",
+			"item": "getrocknete Soft-Tomaten",
+			"tags": ["getrocknete soft-tomaten", "getrocknete tomaten", "soft-tomate", "soft-tomaten", "soft", "tomate", "tomaten"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "TL",
+			"item": "getrockneter Oregano",
+			"tags": ["getrockneter oregano", "oregano"]
+		},
+		{
+			"minQuantity": 2,
+			"maxQuantity": 2,
+			"unit": "EL",
+			"item": "geriebener Parmesan",
+			"tags": ["geriebener parmesan", "parmesan", "grana padano", "parmigiano reggiano", "gerieben", "geriebener"]
+		},
+		{
+			"minQuantity": 200,
+			"maxQuantity": 200,
+			"unit": "g",
+			"item": "Schmand",
+			"tags": ["schmand", "saure sahne", "creme fraiche"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "Stange",
+			"unitPlural": "Stangen",
+			"item": "Lauch",
+			"tags": ["lauch", "porree"]
+		}
+	],
+	"steps": [
+		{
+			"description": "Die Hefe mit 1/2 TL Zucker in 30 ml lauwarmem Wasser auflösen. Das Mehl in eine Schüssel sieben, in die Mitte eine Mulde drücken. Die Hefe hineingeben und etwas Mehl vom Rand untermischen. Buttermilch, 2 EL Olivenöl und 1 TL Salz zufügen. Alles zu einem glatten Teig verkneten (der Teig ist härter als Pizzateig, das ist richtig so). Zugedeckt an einem warmen Ort 2 Stunden 30 Minuten gehen lassen."
+		},
+		{
+			"description": "Den aufgegangenen Teig in 4 Stücke teilen und nacheinander auf je einem bemehlten Stück Backpapier sehr dünn ausrollen. Schon ausgerollte Flammkuchenböden mit Klarsichtfolie bedecken."
+		},
+		{
+			"description": "Ofen mit einem Backblech auf der ersten Schiene von unten vorheizen. Dafür den Ofen auf die höchstmögliche Temperatur einstellen."
+		},
+		{
+			"description": "Knoblauch schälen und mit den getrockneten Tomaten, 8—10 EL Olivenöl, Oregano, 1/2 TL Zucker und Parmesan in der Küchenmaschine zu einer Paste pürieren. Schmand glatt rühren."
+		},
+		{
+			"description": "Lauch putzen, waschen und in feine Scheiben schneiden, mit 1 Prise Zucker, etwas Salz und etwas Olivenöl mischen."
+		},
+		{
+			"description": "Die Klarsichtfolie vom Teig entfernen und Tomatenpaste, Schmand und Lauch darauf verteilen. Die Flammkuchen nacheinander mit dem Backpapier auf das heiße Blech im Ofen gleiten lassen. In 5—8 Minuten goldbraun backen."
+		}
+	],
+	"type": "Recipe"
+}

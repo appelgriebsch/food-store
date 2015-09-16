@@ -1,0 +1,41 @@
+<!-- navigation bar on top -->
+<div role="application">
+    <div class="uk-offcanvas" id="sidebar">
+    </div>
+    <div id="main">
+        <nav class="uk-navbar uk-navbar-attached"> 
+            <div class="uk-nav-header">
+                {{#if user.name }}
+                <a href="#sidebar" class="uk-navbar-toggle" data-uk-offcanvas></a>
+                {{/if}}
+                <a href="#" class="uk-navbar-brand">{{ applicationName }}</a>
+            {{#if user.name }}
+            <ul class="uk-navbar-nav uk-align-right">
+                <li data-uk-dropdown="{mode:'click'}">
+                    {{#if user.gravatar }}
+                    <button class="uk-button uk-button-link"><img class="gravatar-img header-button" src="{{ user.gravatar.thumbnailUrl }}"></img><i class=" header-button uk-icon-caret-down icon-small"></i></button>
+                    {{else}}
+                    <button class="uk-button uk-button-link"><i class="uk-icon-user icon-small header-button"></i><i class="uk-icon-caret-down icon-small header-button"></i></button>
+                    {{/if}}
+                    <div class="popover uk-dropdown uk-dropdown-small">
+                        <ul class="uk-nav uk-nav-dropdown">
+                            <li class="uk-nav-header">{{ user.name }}</li>
+                            {{#if canBeInstalled}}
+                            <li><a href="#" class="install-button"><i class="uk-icon-download"></i> Install locally</a></li>
+                            {{/if}}
+                            <li><a href="#settings"><i class="uk-icon-cog"></i> Settings</a></li>
+                            <li class="uk-nav-divider"></li>
+                            <li><a href="#logout"><i class="uk-icon-sign-out"></i> Logout</a></li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+            {{/if}}
+            </div>
+        </nav>
+        <div class="uk-container uk-container-center"> 
+            <div class="uk-grid" data-uk-grid-margin="" id="content">
+            </div>
+        </div>
+    </div>
+</div>

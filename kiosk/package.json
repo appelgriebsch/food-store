@@ -1,0 +1,18 @@
+{
+  "name": "food_store_kiosk",
+  "version": "0.0.1",
+  "description": "An HTML5 application that allows you to choose and configure recipes",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "bower": "~1.2.7",
+    "grunt-bower-requirejs": "~0.7.1",
+    "grunt-notify": "~0.2.16",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-stylus": "~0.11.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-requirejs": "~0.4.1"
+  }
+}

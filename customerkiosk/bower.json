@@ -1,0 +1,25 @@
+{
+  "name": "food-store-customer-kiosk",
+  "version": "0.0.1",
+  "authors": [
+    "Appelgriebsch <info@appelgriebsch.com>"
+  ],
+  "description": "An HTML5 client to scan and display shopping lists",
+  "main": "index.html",
+  "private": true,
+  "ignore": [
+    "node_modules"
+  ],
+  "dependencies": {
+    "chaplin": "0.11.x",
+    "backbone": "1.x",
+    "underscore": "1.x",
+    "handlebars": "1.x",
+    "requirejs-text": "~2.0.10",
+    "backbone-relational": "~0.8.6",
+    "nib": "~1.0.0",
+    "async": "~0.2.5",
+    "haml": "git://github.com/visionmedia/haml.js#master",
+    "jquery-overscroll": "~1.7.3"
+  }
+}

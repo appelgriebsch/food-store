@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Schweinebraten",
+    "defaultServings": 4,
+    "duration": 60,
+    "imageUrl": "http://www.tim-maelzer.info/wp-content/uploads/2013/04/TMK_F118_Schweinebraten.jpg",
+    "ingredients": [
+      {
+        "quantity": 1,
+        "unit": "kg",
+        "item": "Schweineschwarte",
+        "tags": []
+      },
+      {
+        "quantity": 600,
+        "unit": "g",
+        "item": "Zwiebeln",
+        "tags": []
+      }
+    ],
+    "steps": [
+      {
+        "description": "Schwarte auf der Hautseite kreuzweise einritzen und mit Salz einreiben. 2 Stunden Wasser ziehen lassen. Trocken tupfen und mit Pfeffer würzen.",
+        "imageUrl": "http://www.tim-maelzer.info/wp-content/uploads/2013/04/TMK_F118_Schweinebraten.jpg"
+      }
+    ]
+  }
+]

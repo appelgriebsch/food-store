@@ -1,0 +1,7 @@
+<a href="{{url "recipes#show" _id}}" class="recipe-link"{{#if enableLeapOnImage}} data-leap{{/if}}>
+  <div class="recipe-image" style="background-image: url('{{photoUrl}}');"></div>
+  <div class="recipe-info">
+    <div class="recipe-name">{{name}}</div>
+    <div class="recipe-servings">{{durationInMinutes}} Minuten Zubereitungszeit</div>
+  </div>
+</a>

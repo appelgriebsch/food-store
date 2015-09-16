@@ -1,0 +1,106 @@
+#sidebar
+  width: $sidebarWidth
+  background: #F1F1F1
+  box-shadow: -2px 0 4px 0 rgba(black, 0.1) inset
+
+  position: absolute
+  left: 0
+  top: 0
+
+  height: 100%
+  padding: 25px 30px
+
+  z-index: 100
+
+  /**
+   * Welcome message and username
+   */
+  #user
+    color: #3B5998
+    font-size: 30px
+    font-weight: 300
+
+    line-height: 120%
+
+  #username
+    font-weight: 700
+
+  /**
+   * Tip
+   */
+  #tip
+    font-size: 18px
+    font-weight: 100
+    line-height: 120%
+
+    color: #82858C
+
+  #tip-content
+    font-weight: 300
+
+  .social-coins
+    clearfix()
+    margin-top: 9px
+    .coin
+      width: 12px
+      height: 12px
+      border-radius: 50%
+
+      border: 3px solid
+      float: left
+      margin-right: 8px
+
+      border-color: #DCDCDC
+      &.active
+        border-color: #3B5998
+
+  /**
+   * Navigation
+   */
+  #navigation
+    position: absolute
+    bottom: 0
+    left: 0
+
+    width: 100%
+    padding: 25px 30px
+
+    li
+      margin-bottom: 20px
+
+    .blue-btn, .grey-btn
+      display: block
+
+      position: relative
+
+      font-size: 20px
+
+      border-radius: 6px
+
+      width: 100%
+      height: 60px
+
+      padding: 19px 0 0 25px
+
+      .btn-icon
+        transition: all 0.3s cubic-bezier(0.175, 0.885, 0.320, 1.275)
+        &.hidden
+          transform: scale(0)
+
+      .btn-loading
+        width: 24px
+        height: 24px
+        background: url("/images/loading-button-blue.gif") no-repeat center center
+
+        background-size: contain
+
+        position: absolute
+        top: 50%
+        left: 27px
+
+        margin-top: -12px
+
+        transition: all 0.3s cubic-bezier(0.175, 0.885, 0.320, 1.275)
+        transform: scale(0)
+        &.visible
+          transform: scale(1)

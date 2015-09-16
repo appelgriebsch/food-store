@@ -1,0 +1,538 @@
+[
+    {
+        "name": "Dinner",
+        "user": "wincor",
+        "color": "#1E90FF",
+        "demands": [
+            {
+                "quantity": "1",
+                "unit": "",
+                "description": "Tiefkühlpizza",
+                "tags": ["pizza", "tk", "fertiggericht"],
+                "photo": "",
+                "done": false,
+                "id": "dinner-pizza"
+            },
+            {
+                "quantity": "1",
+                "unit": "Dose",
+                "description": "Pils",
+                "tags": ["bier", "pils", "pilsener"],
+                "photo": "",
+                "done": false,
+                "id": "dinner-bier"
+            }
+        ],
+        "type": "ShoppingList"
+    },
+    {
+        "name": "Frühstück",
+        "user": "wincor",
+        "color": "#32CD32",
+        "demands": [],
+        "type": "ShoppingList"
+    },
+    {
+    	"name": "Moehrengericht",
+        "user": "wincor",
+        "color": "#FF8C00",
+        "demands": [
+            		{
+            			"quantity": 8,
+            			"unit": "",
+            			"description": "Möhre",
+            			"tags": ["möhre", "möhren", "karotte", "karotten"],
+            			"photo": "",
+            			"done": false,
+                        "id": "moehrengericht-moehre"
+            		},
+            		{
+            			"quantity": 0,
+            			"unit": "",
+            			"description": "Salz",
+            			"tags": ["salz", "speisesalz"],
+            			"photo": "",
+            			"done": false,
+                        "id": "moehrengericht-salz"
+            		},
+            		{
+            			"quantity": 2,
+            			"unit": "",
+            			"description": "Schalotte",
+            			"tags": ["schalotten", "schalotte"],
+                        "photo": "",
+                        "done": false,
+                        "id": "moehrengericht-schalotte"
+            		},
+            		{
+            			"quantity": 100,
+            			"unit": "ml",
+            			"description": "Möhrensaft",
+            			"tags": ["möhrensaft", "saft", "möhre", "möhren", "karotte", "karotten"],
+                    	"photo": "",
+                    	"done": false,
+                        "id": "moehrengericht-moehrensaft"
+            		},
+            		{
+            			"quantity": 1,
+            			"unit": "EL",
+            			"description": "Sherryessig",
+            			"tags": ["sherryessig", "sherry", "essig", "apfelessig", "weißweinessig"],
+            			"photo": "",
+            			"done": false,
+                        "id": "moehrengericht-sherryessig"
+            		},
+            		{
+            			"quantity": 4,
+            			"unit": "EL",
+            			"description": "Olivenöl",
+            			"tags": ["olivenöl", "olive", "oliven", "öl", "speiseöl", "pflanzenöl"],
+            			"photo": "",
+            			"done": false,
+                        "id": "moehrengericht-olivenoel"
+            		},
+            		{
+            			"quantity": 0,
+            			"unit": "",
+            			"description": "Pfeffer",
+            			"tags": ["pfeffer", "gemahlen", "gemahlener pfeffer"],
+            			"photo": "",
+            			"done": false,
+                        "id": "moehrengericht-pfeffer"
+            		},
+            		{
+            			"quantity": 200,
+            			"unit": "g",
+            			"description": "Hüttenkäse",
+            			"tags": ["hüttenkäse", "hütten", "käse", "frischkäse", "körnig", "körniger"],
+            			"photo": "",
+            			"done": false,
+                        "id": "moehrengericht-huettenkaese"
+            		},
+            		{
+            			"quantity": 1,
+            			"unit": "Beet",
+            			"description": "Daikon-Kresse",
+            			"tags": ["daikon-kresse", "daikon", "kresse", "brunnenkresse", "bachkresse"],
+            			"photo": "",
+            			"done": false,
+                        "id": "moehrengericht-kresse"
+            		}
+        ],
+        "type": "ShoppingList"
+    },
+    {
+    	"name": "Mittag",
+        "user": "wincor",
+        "color": "#FFFF00",
+        "demands": [
+		{
+			"quantity": 1, "unit": "", "description": "Hefe", 			"tags": ["hefe", "backhefe", "speisehefe"], "photo": "", "done": false,
+"id": "mittag-1"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Zucker", 			"tags": ["zucker", "raffinade", "raffinade-zucker"], "photo": "", "done": false,
+"id": "mittag-2"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Mehl", 			"tags": ["mehl", "weizenmehl", "405"], "photo": "", "done": false,
+"id": "mittag-3"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Buttermilch", 			"tags": ["buttermilch", "butter", "milch"], "photo": "", "done": false,
+"id": "mittag-4"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Olivenöl", 			"tags": ["olivenöl", "olive", "oliven", "öl", "speiseöl", "pflanzenöl"], "photo": "", "done": false,
+"id": "mittag-5"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Salz", 			"tags": ["salz", "speisesalz"], "photo": "", "done": false,
+"id": "mittag-6"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Knoblauchzehe", 			"itemPlural": "Knoblauchzehen", 			"tags": ["knoblauchzehen", "knoblauchzehe", "knoblauch", "zehe"], "photo": "", "done": false,
+"id": "mittag-7"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "getrocknete Soft-Tomaten", 			"tags": ["getrocknete soft-tomaten", "getrocknete tomaten", "getrocknet", "getrocknete", "soft", "tomate", "tomaten"], "photo": "", "done": false,
+"id": "mittag-8"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "getrockneter Oregano", 			"tags": ["getrockneter oregano", "getrocknet", "getrockneter", "oregano"], "photo": "", "done": false,
+"id": "mittag-9"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "geriebener Parmesan", 			"tags": ["geriebener parmesan", "gerieben", "geriebener", "parmesan", "grana padano", "parmigiano reggiano"], "photo": "", "done": false,
+"id": "mittag-10"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Schmand", 			"tags": ["schmand", "saure sahne", "creme fraiche"], "photo": "", "done": false,
+"id": "mittag-11"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Lauch", 			"tags": ["lauch", "porree"], "photo": "", "done": false,
+"id": "mittag-12"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Schalotten", 			"tags": ["schalotten", "schalotte"], "photo": "", "done": false,
+"id": "mittag-13"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Sauerkraut", 			"tags": ["sauerkraut", "sauer", "kraut"], "photo": "", "done": false,
+"id": "mittag-14"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Butter", 			"tags": ["butter"], "photo": "", "done": false,
+"id": "mittag-15"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Kümmelsaat", 			"tags": ["kümmelsaat", "kümmel", "saat"], "photo": "", "done": false,
+"id": "mittag-16"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Lorbeerblatt", 			"itemPlural": "Lorbeerblätter", 			"tags": ["lorbeerblatt", "lorbeerblätter", "lorbeer", "blatt", "blätter"], "photo": "", "done": false,
+"id": "mittag-17"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "flüssiger Honig", 			"tags": ["flüssiger Honig", "flüssiger", "flüssig", "honig", "bienenhonig"], "photo": "", "done": false,
+"id": "mittag-18"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Salz", 			"tags": ["salz", "speisesalz"], "photo": "", "done": false,
+"id": "mittag-19"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "weißer Portwein", 			"tags": ["weißer portwein", "weißer", "weiß", "portwein", "weißwein", "wein"], "photo": "", "done": false,
+"id": "mittag-20"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Quittensaft", 			"tags": ["quittensaft", "quitte", "quitten", "saft", "apfelsaft", "apfel"], "photo": "", "done": false,
+"id": "mittag-21"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Schlagsahne", 			"tags": ["schlagsahne", "schlag", "sahne"], "photo": "", "done": false,
+"id": "mittag-22"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "kalte Gemüsebrühe", 			"tags": ["gemüsebrühe", "gemüse", "brühe"], "photo": "", "done": false,
+"id": "mittag-23"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Mehl", 			"tags": ["mehl", "weizenmehl", "405"], "photo": "", "done": false,
+"id": "mittag-24"
+		}, 	{
+			"quantity": 1, "unit": "", "description": "Majoran", 			"tags": ["majoran"], "photo": "", "done": false,
+"id": "mittag-25"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Pfeffer", 			"tags": ["pfeffer", "gemahlen", "gemahlener Pfeffer"], "photo": "", "done": false,
+"id": "mittag-26"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Zucker", 			"tags": ["zucker", "raffinade", "raffinade-zucker"], "photo": "", "done": false,
+"id": "mittag-27"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Fleischtomate", 			"itemPlural": "Fleischtomaten", 			"tags": ["fleischtomate", "tomate", "fleischtomaten", "tomaten"], "photo": "", "done": false,
+"id": "mittag-28"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Gruyère-Käse", 			"tags": ["gruyere-käse", "gruyere", "käse"], "photo": "", "done": false,
+"id": "mittag-29"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Lasagneplatte", 			"itemPlural": "Lasagneplatten", 			"tags": ["lasagneplatten", "lasagneplatte", "lasagne", "platte", "platten"], "photo": "", "done": false,
+"id": "mittag-30"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Spaghetti", 			"tags": ["spaghetti", "spagetti", "pasta", "nudeln", "nudel"], "photo": "", "done": false,
+"id": "mittag-31"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Salz", 			"tags": ["salz", "speisesalz"], "photo": "", "done": false,
+"id": "mittag-32"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Fenchelknolle", 			"itemPlural": "Fenchelknollen", 			"tags": ["fenchelknolle", "fenchel", "knolle"], "photo": "", "done": false,
+"id": "mittag-33"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Tomate", 			"itemPlural": "Tomaten", 			"tags": ["tomate", "tomaten"], "photo": "", "done": false,
+"id": "mittag-34"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Zitrone", 			"itemPlural": "Zitronen", 			"tags": ["zitrone", "zitronen"], "photo": "", "done": false,
+"id": "mittag-35"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Olivenöl", 			"tags": ["olivenöl", "olive", "oliven", "öl", "speiseöl", "pflanzenöl"], "photo": "", "done": false,
+"id": "mittag-36"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Salz", 			"tags": ["salz", "speisesalz"], "photo": "", "done": false,
+"id": "mittag-37"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Pfeffer", 			"tags": ["pfeffer", "gemahlen", "gemahlener Pfeffer"], "photo": "", "done": false,
+"id": "mittag-38"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Zucker", 			"tags": ["zucker", "raffinade", "raffinade-zucker"], "photo": "", "done": false,
+"id": "mittag-39"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "frisch gehobelter Räucherricotta", 			"tags": ["frisch gehobelter räucherricotta", "räucherricotta", "ricotta", "geräuchert"], "photo": "", "done": false,
+"id": "mittag-40"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "rote Paprikaschote", 			"itemPlural": "rote Paprikaschoten", 			"tags": ["rote paprikaschote", "paprikaschote", "rot", "rote", "paprika", "schote"], "photo": "", "done": false,
+"id": "mittag-41"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "grüne Paprikaschote", 			"itemPlural": "grüne Paprikaschoten", 			"tags": ["grüne paprikaschote", "paprikaschote", "grün", "grüne", "paprika", "schote"], "photo": "", "done": false,
+"id": "mittag-42"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Knoblauchzehe", 			"itemPlural": "Knoblauchzehen", 			"tags": ["knoblauchzehe", "knoblauchzehen", "knoblauch", "zehe", "zehen"], "photo": "", "done": false,
+"id": "mittag-43"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "getrocknete Datteln ohne Stein", 			"tags": ["getrocknete datteln ohne stein", "getrocknet", "getrocknete", "dattel", "datteln", "entsteint", "entsteinte"], "photo": "", "done": false,
+"id": "mittag-44"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Ingwerwurzel", 			"tags": ["ingwerwurzel", "ingwerwurzeln", "ingwer", "wurzel", "wurzeln"], "photo": "", "done": false,
+"id": "mittag-45"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Fadennudeln", 			"tags": ["fadennudeln", "fadennudel", "faden", "nudel", "nudeln"], "photo": "", "done": false,
+"id": "mittag-46"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Salz", 			"tags": ["salz", "speisesalz"], "photo": "", "done": false,
+"id": "mittag-47"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Olivenöl", 			"tags": ["olivenöl", "olive", "oliven", "öl", "speiseöl", "pflanzenöl"], "photo": "", "done": false,
+"id": "mittag-48"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Harissa-Paste", 			"tags": ["harissa-paste", "harissa", "paste"], "photo": "", "done": false,
+"id": "mittag-49"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Kreuzkümmel", 			"tags": ["kreuzkümmel"], "photo": "", "done": false,
+"id": "mittag-50"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Zitrone", 			"itemPlural": "Zitronen", 			"tags": ["zitrone", "zitronen"], "photo": "", "done": false,
+"id": "mittag-51"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Kurkuma", 			"tags": ["kurkuma", "currypulver"], "photo": "", "done": false,
+"id": "mittag-52"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Koriander", 			"tags": ["koriander"], "photo": "", "done": false,
+"id": "mittag-53"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Petersilie", 			"tags": ["petersilie"], "photo": "", "done": false,
+"id": "mittag-54"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Zitronensaft", 			"tags": ["zitronensaft", "zitrone", "zitronen", "saft"], "photo": "", "done": false,
+"id": "mittag-55"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Butter", 			"tags": ["butter"], "photo": "", "done": false,
+"id": "mittag-56"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Yufka-Teigblatt", 			"itemPlural": "Yufka-Teigblätter", 			"tags": ["yufka-teigblätter", "yufka", "teigblätter", "blätter"], "photo": "", "done": false,
+"id": "mittag-57"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Öl", 			"tags": ["öl", "speiseöl", "pflanzenöl"], "photo": "", "done": false,
+"id": "mittag-58"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "helle Sojasauce", 			"tags": ["sojasauce", "sojasoße", "helle", "hell", "soja", "sauce", "soße"], "photo": "", "done": false,
+"id": "mittag-59"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "flüssiger Honig", 			"tags": ["honig", "flüssig", "flüssiger"], "photo": "", "done": false,
+"id": "mittag-60"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Sambal Oelek (indonesische Chilipaste, ersatzweise Chilisauce)", 			"tags": ["sambal", "oelek", "indonesisch", "indonesisch", "chilipaste", "chilisauce", "chili", "paste", "sauce"], "photo": "", "done": false,
+"id": "mittag-61"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Schalotte", 			"itemPlural": "Schalotten", 			"tags": ["schalotten", "schalotte"], "photo": "", "done": false,
+"id": "mittag-62"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Knoblauchzehe", 			"itemPlural": "Knoblauchzehen", 			"tags": ["knoblauchzehe", "knoblauchzehen", "knoblauch", "zehe", "zehen"], "photo": "", "done": false,
+"id": "mittag-63"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Staudensellerie", 			"tags": ["staudensellerie", "stauden", "staude", "sellerie"], "photo": "", "done": false,
+"id": "mittag-64"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "zarter Weißkohl", 			"tags": ["weißkohl", "zart", "zarter"], "photo": "", "done": false,
+"id": "mittag-65"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Möhre", 			"itemPlural": "Möhren", 			"tags": ["möhre", "karotte", "möhren", "karotten"], "photo": "", "done": false,
+"id": "mittag-66"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "grüne Chilischote", 			"itemPlural": "grüne Chilischoten", 			"tags": ["chilischote", "chili", "schote", "schoten", "grün"], "photo": "", "done": false,
+"id": "mittag-67"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Tomate", 			"itemPlural": "Tomaten", 			"tags": ["tomate", "tomaten"], "photo": "", "done": false,
+"id": "mittag-68"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Ei (M/L)", 			"itemPlural": "Eier (M/L)", 			"tags": ["ei", "eier"], "photo": "", "done": false,
+"id": "mittag-69"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Öl", 			"tags": ["öl", "speiseöl", "pflanzenöl"], "photo": "", "done": false,
+"id": "mittag-70"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "gegarter Reis vom Vortag", 			"tags": ["reis", "langkornreis"], "photo": "", "done": false,
+"id": "mittag-71"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Basilikum", 			"tags": ["basilikum"], "photo": "", "done": false,
+"id": "mittag-72"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Koriander", 			"tags": ["koriander"], "photo": "", "done": false,
+"id": "mittag-73"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Röstzwiebeln", 			"tags": ["röstzwiebeln", "röst", "zwiebeln", "zwiebel"], "photo": "", "done": false,
+"id": "mittag-74"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "kleiner Granatapfel", 			"itemPlural": "kleine Granatäpfel", 			"tags": ["kleiner granatapfel", "kleiner", "klein", "granatapfel", "granatäpfel"], "photo": "", "done": false,
+"id": "mittag-75"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Brunnenkresse", 			"tags": ["brunnenkresse", "kresse", "brunnen"], "photo": "", "done": false,
+"id": "mittag-76"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Büffelmozzarella", 			"tags": ["büffelmozzarella", "büffel", "mozzarella"], "photo": "", "done": false,
+"id": "mittag-77"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Olivenöl", 			"tags": ["olivenöl", "olive", "oliven", "öl", "speiseöl", "pflanzenöl"], "photo": "", "done": false,
+"id": "mittag-78"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Zitronensaft", 			"tags": ["zitronensaft", "zitrone", "zitronen", "saft"], "photo": "", "done": false,
+"id": "mittag-79"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Salz", 			"tags": ["salz", "speisesalz"], "photo": "", "done": false,
+"id": "mittag-80"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Pfeffer", 			"tags": ["pfeffer", "gemahlen", "gemahlener Pfeffer"], "photo": "", "done": false,
+"id": "mittag-81"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Zucker", 			"tags": ["zucker", "raffinade", "raffinade-zucker"], "photo": "", "done": false,
+"id": "mittag-82"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Möhre", 			"itemPlural": "Möhren", 			"tags": ["möhre", "möhren", "karotte", "karotten"], "photo": "", "done": false,
+"id": "mittag-83"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Salz", 			"tags": ["salz", "speisesalz"], "photo": "", "done": false,
+"id": "mittag-84"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Schalotte", 			"itemPlural": "Schalotten", 			"tags": ["schalotten", "schalotte"], "photo": "", "done": false,
+"id": "mittag-85"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Möhrensaft", 			"tags": ["möhrensaft", "saft", "möhre", "möhren", "karotte", "karotten"], "photo": "", "done": false,
+"id": "mittag-86"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Sherryessig", 			"tags": ["sherryessig", "sherry", "essig", "apfelessig", "weißweinessig"], "photo": "", "done": false,
+"id": "mittag-87"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Olivenöl", 			"tags": ["olivenöl", "olive", "oliven", "öl", "speiseöl", "pflanzenöl"], "photo": "", "done": false,
+"id": "mittag-88"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Pfeffer", 			"tags": ["pfeffer", "gemahlen", "gemahlener pfeffer"], "photo": "", "done": false,
+"id": "mittag-89"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Hüttenkäse", 			"tags": ["hüttenkäse", "hütten", "käse", "frischkäse", "körnig", "körniger"], "photo": "", "done": false,
+"id": "mittag-90"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Daikon-Kresse", 			"tags": ["daikon-kresse", "daikon", "kresse", "brunnenkresse", "bachkresse"], "photo": "", "done": false,
+"id": "mittag-91"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "geräucherter Scamorza (italienischer Käse)", 			"tags": ["geräucherter scamorza", "geräuchert", "geräucherter", "scamorza", "italienisch", "italienischer", "käse"], "photo": "", "done": false,
+"id": "mittag-92"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Sahne", 			"tags": ["sahne", "schlagsahne"], "photo": "", "done": false,
+"id": "mittag-93"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Ei", 			"itemPlural": "Eier", 			"tags": ["ei", "eier", "hühnerei", "hühnereier"], "photo": "", "done": false,
+"id": "mittag-94"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Salz", 			"tags": ["salz", "speisesalz"], "photo": "", "done": false,
+"id": "mittag-95"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Pfeffer", 			"tags": ["pfeffer", "gemahlen"], "photo": "", "done": false,
+"id": "mittag-96"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Bauernbrot", 			"tags": ["bauernbrot", "bauern", "brot"], "photo": "", "done": false,
+"id": "mittag-97"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "grüne Bohnen", 			"tags": ["grüne bohnen", "grüne bohne", "grün", "grüne", "bohne", "bohnen"], "photo": "", "done": false,
+"id": "mittag-98"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "rote Zwiebel", 			"itemPlural": "rote Zwiebeln", 			"tags": ["rote zwiebel", "rot", "rote", "zwiebel", "zwiebeln"], "photo": "", "done": false,
+"id": "mittag-99"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Rotweinessig", 			"tags": ["rotweinessig", "rotwein", "essig", "speiseessig"], "photo": "", "done": false,
+"id": "mittag-100"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Olivenöl", 			"tags": ["olivenöl", "olive", "oliven", "öl", "speiseöl", "pflanzenöl"], "photo": "", "done": false,
+"id": "mittag-101"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "frische Thymianblättchen", 			"tags": ["frische thymianblättchen", "frisch", "frische", "frischer", "thymian", "blatt", "blättchen", "blätter"], "photo": "", "done": false,
+"id": "mittag-102"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Datteltomaten", 			"tags": ["datteltomaten", "dattel", "tomate", "tomaten", "kirschtomate", "kirschtomaten", "kirsch", "cocktail", "cherry", "cocktailtomate", "cocktailtomaten", "cherrytomate", "cherrytomaten"], "photo": "", "done": false,
+"id": "mittag-103"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Zucker", 			"tags": ["zucker", "raffinade", "raffinade-zucker"], "photo": "", "done": false,
+"id": "mittag-104"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Hokkaido-Kürbis", 			"tags": ["hokkaido-kürbis", "hokkaido", "kürbis"], "photo": "", "done": false,
+"id": "mittag-105"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "gemahlene Mandeln", 			"tags": ["gemahlene mandeln", "gemahlen", "gemahlene", "mandeln"], "photo": "", "done": false,
+"id": "mittag-106"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Zitronensaft", 			"tags": ["zitronensaft", "zitrone", "zitronen", "saft"], "photo": "", "done": false,
+"id": "mittag-107"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Salz", 			"tags": ["salz", "speisesalz"], "photo": "", "done": false,
+"id": "mittag-108"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Zucker", 			"tags": ["zucker", "raffinade", "raffinade-zucker"], "photo": "", "done": false,
+"id": "mittag-109"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "kleine Zucchini", 			"tags": ["kleine zucchini", "klein", "kleine", "zucchini"], "photo": "", "done": false,
+"id": "mittag-110"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Olivenöl", 			"tags": ["olivenöl", "olive", "oliven", "öl", "speiseöl", "pflanzenöl"], "photo": "", "done": false,
+"id": "mittag-111"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Pfeffer", 			"tags": ["pfeffer", "gemahlen", "gemahlener Pfeffer"], "photo": "", "done": false,
+"id": "mittag-112"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Kürbiskerne", 			"tags": ["kürbiskerne", "kürbiskern", "kürbis", "kern", "kerne"], "photo": "", "done": false,
+"id": "mittag-113"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "flüssiger Honig", 			"tags": ["flüssiger honig", "flüssig", "flüssiger", "honig", "bienenhonig"], "photo": "", "done": false,
+"id": "mittag-114"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Picandou (Ziegenfrischkäse)", 			"tags": ["picandou", "ziegenfrischkäse"], "photo": "", "done": false,
+"id": "mittag-115"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Kürbiskernöl", 			"tags": ["kürbiskernöl", "kürbis", "kürbiskern", "öl", "kürbisöl"], "photo": "", "done": false,
+"id": "mittag-116"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Schalotte", 			"itemPlural": "Schalotten", 			"tags": ["schalotte", "schalotten"], "photo": "", "done": false,
+"id": "mittag-117"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Süßkartoffel", 			"itemPlural": "Süßkartoffeln", 			"tags": ["süßkartoffel", "süßkartoffeln", "süß", "kartoffel", "kartoffeln"], "photo": "", "done": false,
+"id": "mittag-118"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Champignons", 			"tags": ["champignon", "champignons", "pilz", "pilze"], "photo": "", "done": false,
+"id": "mittag-119"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Babymais", 			"tags": ["babymais", "baby", "mais"], "photo": "", "done": false,
+"id": "mittag-120"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Zuckerschoten", 			"tags": ["zuckerschote", "zuckerschoten", "zucker", "schote", "schoten"], "photo": "", "done": false,
+"id": "mittag-121"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "kleine gelbe Zucchini", 			"tags": ["klein", "kleine", "gelb", "gelbe", "zucchini"], "photo": "", "done": false,
+"id": "mittag-122"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Kirschtomaten", 			"tags": ["kirschtomate", "kirschtomaten", "kirsch", "tomate", "tomaten", "cocktailtomate", "cocktailtomaten", "cocktail", "cherrytomate", "cherrytomaten", "cherry"], "photo": "", "done": false,
+"id": "mittag-123"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Frühlingszwiebel", 			"itemPlural": "Frühlingszwiebeln", 			"tags": ["frühlingszwiebel", "frühlingszwiebeln", "frühlings", "zwiebel", "zwiebeln"], "photo": "", "done": false,
+"id": "mittag-124"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Bio-Limette", 			"itemPlural": "Bio-Limetten", 			"tags": ["bio-limette", "bio-limetten", "bio", "limette", "limetten"], "photo": "", "done": false,
+"id": "mittag-125"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Wasserkastanien", 			"tags": ["wasserkastanie", "wasserkastanien", "wasser", "kastanie", "kastanien"], "photo": "", "done": false,
+"id": "mittag-126"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "kleine Aubergine", 			"itemPlural": "kleine Auberginen", 			"tags": ["kleine aubergine", "kleine", "aubergine", "auberginen"], "photo": "", "done": false,
+"id": "mittag-127"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "rote Chillischote", 			"itemPlural": "rote Chillischoten", 			"tags": ["rote chillischote", "rote chillischoten", "rot", "rote", "chillischote", "chillischoten", "chilischote", "chilischoten", "chilli", "chili", "schote", "schoten"], "photo": "", "done": false,
+"id": "mittag-128"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "ungesüßte Kokosmilch", 			"tags": ["ungesüßte kokosmilch", "ungesüßte", "ungesüßt", "kokosmilch"], "photo": "", "done": false,
+"id": "mittag-129"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Gemüsebrühe", 			"tags": ["gemüsebrühe", "gemüse", "brühe"], "photo": "", "done": false,
+"id": "mittag-130"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Öl", 			"tags": ["öl", "speiseöl", "pflanzenöl"], "photo": "", "done": false,
+"id": "mittag-131"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Currypaste", 			"tags": ["currypaste", "curry", "paste"], "photo": "", "done": false,
+"id": "mittag-132"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Kaffirblatt", 			"itemPlural": "Kaffirblätter", 			"tags": ["kaffirblätter", "kaffirblatt", "kaffir", "blatt", "blätter"], "photo": "", "done": false,
+"id": "mittag-133"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Thaibasilikum", 			"tags": ["thaibasilikum", "thai", "basilikum"], "photo": "", "done": false,
+"id": "mittag-134"
+		}, 		{
+			"quantity": 1, "unit": "", "description": "Koriandergrün", 			"tags": ["koriandergrün", "koriander", "grün"], "photo": "", "done": false,
+"id": "mittag-135"
+		}
+        ],
+        "type": "ShoppingList"
+    }
+]

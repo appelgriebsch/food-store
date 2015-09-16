@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# version 0.2.0
+
+index.html
+manifest.appcache
+manifest.webapp
+css/application.css
+img/bags.png
+js/init.js
+js/require.min.js
+js/templates
+js/templates\handlebars.js
+fonts/fontawesome-webfont.eot
+fonts/fontawesome-webfont.ttf
+fonts/fontawesome-webfont.woff
+fonts/FontAwesome.otf
+
+NETWORK:
+*

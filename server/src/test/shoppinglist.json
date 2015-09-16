@@ -1,0 +1,24 @@
+{
+	"name": "Dinner",
+	"user": "wincor",
+	"color": "#1E90FF",
+	"demands": [
+		{
+			"quantity": "1",
+			"unit": "",
+			"description": "Tiefkühlpizza",
+			"tags": ["pizza", "tk", "fertiggericht"],
+			"photo": "",
+			"done": false
+		},
+		{
+			"quantity": "1",
+			"unit": "Dose",
+			"description": "Pils",
+			"tags": ["bier", "pils", "pilsener"],
+			"photo": "",
+			"done": false
+		}
+	],
+	"type": "ShoppingList"
+}

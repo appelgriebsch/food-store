@@ -1,0 +1,232 @@
+[
+	{
+       "user_mail": "mail@wincor-nixdorf.com",
+	   "user_name": "wincor",
+	   "name": "Winston Corner",
+	   "social_coins": 10,
+	   "facebook": {
+	       "data": {
+	       },
+	       "expires": -1,
+	       "token": ""
+	   },
+	   "twitter": {
+	       "data": {
+	       },
+	       "token": "",
+	       "secret": ""
+	   },
+	   "password": "$2a$10$3ev6Js.We3zA5VlCApLRR.2LARzOMv9GGyFcQnk8E7bPFBFW7ARLe",
+	   "type": "Customer"
+	},
+    {
+        "_id": "customers/appelgriebsch",
+        "_rev": "1-104b7baf86c21f99c3435eb06d41e242",
+        "user_name": "appelgriebsch",
+        "name": "Andreas Gerlach",
+        "social_coins": 0,
+        "facebook": {
+            "token": "CAACoZBkhMs8gBAKTrdrIDauYDVbwr4kXyhxwtkDzZAYLTMTJTxxt1PNiUR1xVzNRFmeFs7w8HH5GUlqpFj2Gw3geW6ZADiZBrEOTGLhlrPZC0yyZBBDkqjgkmOQPArMslWsvUTQZAQZBbhioWITdSYZB1l9s7E6HRDvtQ0Xp6SGv5kWyDUo93tw85CzD9gUQYXgsZD",
+            "expires": "Wed Jan 15 2014 18:24:48 GMT+0100 (W. Europe Standard Time)",
+            "data": {
+                "id": "100007163614951",
+                "name": "Andreas Gerlach",
+                "first_name": "Andreas",
+                "last_name": "Gerlach",
+                "link": "https://www.facebook.com/andreas.gerlach.1009",
+                "birthday": "09/10/1976",
+                "hometown": {
+                    "id": "111175118906315",
+                    "name": "Berlin, Germany"
+                },
+                "location": {
+                    "id": "108402229182110",
+                    "name": "Essen"
+                },
+                "work": [
+                    {
+                        "employer": {
+                            "id": "112173025465741",
+                            "name": "Wincor Nixdorf"
+                        },
+                        "start_date": "1999-11-01"
+                    }
+                ],
+                "education": [
+                    {
+                        "school": {
+                            "id": "106017009438168",
+                            "name": "John-Lennon-Gymnasium"
+                        },
+                        "type": "High School"
+                    },
+                    {
+                        "school": {
+                            "id": "108058285894377",
+                            "name": "FHDW Bielefeld"
+                        },
+                        "concentration": [
+                            {
+                                "id": "104069596296143",
+                                "name": "Business Informatics"
+                            }
+                        ],
+                        "type": "College"
+                    }
+                ],
+                "gender": "male",
+                "email": "andi@appelgriebsch.com",
+                "timezone": "1",
+                "locale": "en_US",
+                "verified": "true",
+                "updated_time": "2013-12-26T04:29:32+0000",
+                "username": "andreas.gerlach.1009",
+                "friends_count": "27"
+            }
+        },
+        "twitter": {
+            "token": "307297729-l1dOrYdV67Dx7rvI3XJEUEEI3rxud72uCzkJrbsJ",
+            "secret": "Aeev2hfPEpr5ldShJLzodlDF5sFsGJMy3cEupJ7LSIzmO",
+            "data": {
+                "id": "307297729",
+                "id_str": "307297729",
+                "name": "Andreas Gerlach",
+                "screen_name": "appelgriebsch",
+                "location": "Essen",
+                "description": "Mac User, OpenWeb enthusiast",
+                "url": "http://t.co/DOaVkJuiXo",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/DOaVkJuiXo",
+                                "expanded_url": "http://www.appelgriebsch.com",
+                                "display_url": "appelgriebsch.com",
+                                "indices": [
+                                    "0",
+                                    "22"
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": "false",
+                "followers_count": "106",
+                "friends_count": "102",
+                "listed_count": "3",
+                "created_at": "Sun May 29 11:26:34 +0000 2011",
+                "favourites_count": "419",
+                "utc_offset": "3600",
+                "time_zone": "Berlin",
+                "geo_enabled": "true",
+                "verified": "false",
+                "statuses_count": "4091",
+                "lang": "en",
+                "status": {
+                    "created_at": "Wed Jan 15 14:15:08 +0000 2014",
+                    "id": "423458332926812160",
+                    "id_str": "423458332926812161",
+                    "text": "Just joined the food revolution w/ #easy_dinner on #WincorWorld",
+                    "source": "<a href=\"http://www.wincor-world.com\" rel=\"nofollow\">Easy Dinner</a>",
+                    "truncated": "false",
+                    "in_reply_to_status_id": "",
+                    "in_reply_to_status_id_str": "",
+                    "in_reply_to_user_id": "",
+                    "in_reply_to_user_id_str": "",
+                    "in_reply_to_screen_name": "",
+                    "geo": "",
+                    "coordinates": "",
+                    "place": "",
+                    "contributors": "",
+                    "retweet_count": "0",
+                    "favorite_count": "0",
+                    "entities": {
+                        "hashtags": [
+                            {
+                                "text": "easy_dinner",
+                                "indices": [
+                                    "35",
+                                    "47"
+                                ]
+                            },
+                            {
+                                "text": "WincorWorld",
+                                "indices": [
+                                    "51",
+                                    "63"
+                                ]
+                            }
+                        ]
+                    },
+                    "favorited": "false",
+                    "retweeted": "false",
+                    "lang": "en"
+                },
+                "contributors_enabled": "false",
+                "is_translator": "false",
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": "false",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000865541281/USpY1H16_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000865541281/USpY1H16_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/307297729/1386919145",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": "true",
+                "default_profile": "false",
+                "default_profile_image": "false",
+                "following": "false",
+                "follow_request_sent": "false",
+                "notifications": "false"
+            }
+        },
+        "password": "$2a$10$Bs9CUTxLMKF6ugffDcDhN.1ATILU2ryGLeg5tkMyyLUdc5Vs8MzPC",
+        "type": "Customer",
+        "user_mail": "andi@appelgriebsch.com",
+        "gravatar": {
+            "id": "5847361",
+            "hash": "6db4438cb7fcacd54f4e1a8808c6b6fc",
+            "requestHash": "6db4438cb7fcacd54f4e1a8808c6b6fc",
+            "profileUrl": "http://gravatar.com/appelgriebsch",
+            "preferredUsername": "appelgriebsch",
+            "thumbnailUrl": "http://0.gravatar.com/avatar/6db4438cb7fcacd54f4e1a8808c6b6fc",
+            "photos": [
+                {
+                    "value": "http://0.gravatar.com/avatar/6db4438cb7fcacd54f4e1a8808c6b6fc",
+                    "type": "thumbnail"
+                },
+                {
+                    "value": "http://1.gravatar.com/userimage/5847361/85ca73abe8a4a1968eac176ad238a199"
+                }
+            ],
+            "name": {
+                "givenName": "Andreas",
+                "familyName": "Gerlach",
+                "formatted": "Andreas Gerlach"
+            },
+            "displayName": "appelgriebsch",
+            "currentLocation": "Essen, Germany",
+            "accounts": [
+                {
+                    "domain": "blogger.com",
+                    "display": "blogger.com",
+                    "url": "http://www.blogger.com/profile/04304379756446858219",
+                    "userid": "04304379756446858219",
+                    "verified": "true",
+                    "shortname": "blogger"
+                },
+                {
+                    "domain": "profiles.google.com",
+                    "display": "profiles.google.com",
+                    "url": "https://profiles.google.com/100009836912749301084",
+                    "userid": "100009836912749301084",
+                    "verified": "true",
+                    "shortname": "google"
+                }
+            ]
+        }
+    }
+]

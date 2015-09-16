@@ -1,0 +1,15 @@
+{{#if name}}
+    <h1 class="uk-panel-title">
+        <span class="uk-float-left color-label" style="color: {{ color }}; background-color: {{ color }}">_</span>
+        <span class="uk-float-left">{{ name }}</span>
+        <span class="uk-float-right optionbtn">
+            <a href="" data-role="scan"><i class="uk-icon-camera"></i></a>
+            <a href="" data-role="qrcode"><i class="uk-icon-qrcode"></i></a>
+            <a href="#shoppingList/delete/{{ name }}"><i class="uk-icon-trash-o"></i></a>
+        </span>
+        <br/>
+    </h1>
+    <input type="text" maxlength="40" id="newItem" class="uk-width-4-5" placeholder="add a new item"/>
+{{else}}
+    <h1 class="uk-panel-title">No shopping list selected</h1>
+{{/if}}

@@ -1,0 +1,139 @@
+{
+	"name": "Nasi Goreng",
+	"servedPersons": 4,
+	"durationInMinutes": 25,
+	"photo": "/images/240_241_Nasi_Goreng.jpg",
+	"ingredients": [
+		{
+			"minQuantity": 60,
+			"maxQuantity": 60,
+			"unit": "ml",
+			"item": "helle Sojasauce",
+			"tags": ["sojasauce", "sojasoße"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "EL",
+			"item": "flüssiger Honig",
+			"tags": ["flüssiger honig", "bienenhonig", "honig"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "TL",
+			"item": "Sambal Oelek (indonesische Chilipaste, ersatzweise Chilisauce)",
+			"tags": ["sambal oelek", "sambal", "oelek", "chilipaste", "chili"]
+		},
+		{
+			"minQuantity": 6,
+			"maxQuantity": 6,
+			"unit": "",
+			"item": "Schalotte",
+			"itemPlural": "Schalotten",
+			"tags": ["schalotten", "schalotte"]
+		},
+		{
+			"minQuantity": 3,
+			"maxQuantity": 3,
+			"unit": "",
+			"item": "Knoblauchzehe",
+			"itemPlural": "Knoblauchzehen",
+			"tags": ["knoblauchzehe", "knoblauchzehen", "knoblauch"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "Stange",
+			"unitPlural": "Stangen",
+			"item": "Staudensellerie",
+			"tags": ["staudensellerie", "sellerie"]
+		},
+		{
+			"minQuantity": 150,
+			"maxQuantity": 150,
+			"unit": "g",
+			"item": "zarter Weißkohl",
+			"tags": ["weißkohl", "kohl"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "",
+			"item": "Möhre",
+			"itemPlural": "Möhren",
+			"tags": ["möhre", "karotte", "möhren", "karotten"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "",
+			"item": "grüne Chilischote",
+			"itemPlural": "grüne Chilischoten",
+			"tags": ["grüne chilischote", "chilischote", "grüne chili", "chili"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 2,
+			"unit": "",
+			"item": "Tomate",
+			"itemPlural": "Tomaten",
+			"tags": ["tomate", "tomaten"]
+		},
+		{
+			"minQuantity": 2,
+			"maxQuantity": 2,
+			"unit": "",
+			"item": "Ei (M/L)",
+			"itemPlural": "Eier (M/L)",
+			"tags": ["ei", "eier"]
+		},
+		{
+			"minQuantity": 6,
+			"maxQuantity": 6,
+			"unit": "EL",
+			"item": "Öl",
+			"tags": ["öl", "speiseöl", "pflanzenöl"]
+		},
+		{
+			"minQuantity": 400,
+			"maxQuantity": 400,
+			"unit": "g",
+			"item": "gegarter Reis vom Vortag",
+			"tags": ["reis", "langkornreis"]
+		},
+		{
+			"minQuantity": 2,
+			"maxQuantity": 2,
+			"unit": "Stängel",
+			"item": "Basilikum",
+			"tags": ["basilikum"]
+		},
+		{
+			"minQuantity": 4,
+			"maxQuantity": 4,
+			"unit": "Stängel",
+			"item": "Koriander",
+			"tags": ["koriander"]
+		},
+		{
+			"minQuantity": 4,
+			"maxQuantity": 4,
+			"unit": "EL",
+			"item": "Röstzwiebeln",
+			"tags": ["röstzwiebeln", "zwiebeln", "zwiebel"]
+		}
+	],
+	"steps": [
+		{
+			"description": "Sojasauce mit Honig, Sambal Oelek und 2 EL Wasser verrühren. Schalotten schälen und in feine Scheiben schneiden. Knoblauch schälen und fein hacken. Staudensellerie putzen und in Streifen schneiden. Weißkohl in feine Scheiben schneiden. Möhre schälen, längs halbieren und längs in feine Scheiben schneiden. Chili in feine Scheiben schneiden."
+		},
+		{
+			"description": "Tomaten entstrunken und fein würfeln. Eier verquirlen. 3 EL Öl in einer großen beschichteten Pfanne stark erhitzen, die Möhre und den Kohl hineingeben und unter Rühren 2 Minuten braten. Sellerie, Schalotten, Chili und Knoblauch zugeben und weitere 2—3 Minuten braten. Gemüse aus der Pfanne in eine Schale geben."
+		},
+		{
+			"description": "Übriges Öl in der Pfanne erhitzen, die Eier zugeben und unter Rühren stocken lassen. Reis zufügen und mit dem Rührei 2 Minuten braten. Die Würzsauce zugeben und weiterbraten, bis alle Flüssigkeit verdampft oder eingesogen ist. Gemüse und Tomaten unterheben und noch 1 Minute weiterbraten. Thai-Basilikum und Koriander grob hacken und untermengen. Mit Röstzwiebeln bestreut servieren."
+		}
+	],
+	"type": "Recipe"
+}

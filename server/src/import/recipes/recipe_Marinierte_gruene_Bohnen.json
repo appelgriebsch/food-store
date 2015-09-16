@@ -1,0 +1,117 @@
+{
+	"name": "Marinierte grüne Bohnen mit Scamorza-Toast",
+	"servedPersons": 4,
+	"durationInMinutes": 30,
+	"photo": "/images/216_217_Scamorza.jpg",
+	"ingredients": [
+		{
+			"minQuantity": 100,
+			"maxQuantity": 100,
+			"unit": "g",
+			"item": "geräucherter Scamorza (italienischer Käse)",
+			"tags": ["geräucherter scamorza", "scamorza", "käse"]
+		},
+		{
+			"minQuantity": 150,
+			"maxQuantity": 150,
+			"unit": "g",
+			"item": "Sahne",
+			"tags": ["sahne", "schlagsahne", "rahm", "schlagrahm"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "",
+			"item": "Ei",
+			"itemPlural": "Eier",
+			"tags": ["ei", "eier", "hühnerei", "hühnereier"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Salz",
+			"tags": ["salz", "speisesalz"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Pfeffer",
+			"tags": ["pfeffer", "gemahlener pfeffer"]
+		},
+		{
+			"minQuantity": 4,
+			"maxQuantity": 4,
+			"unit": "Scheibe",
+			"unitPlural": "Scheiben",
+			"item": "Bauernbrot",
+			"tags": ["bauernbrot", "brot"]
+		},
+		{
+			"minQuantity": 500,
+			"maxQuantity": 500,
+			"unit": "g",
+			"item": "grüne Bohnen",
+			"tags": ["grüne bohnen", "grüne bohne", "bohne", "bohnen"]
+		},
+		{
+			"minQuantity": 0.5,
+			"maxQuantity": 0.5,
+			"unit": "",
+			"item": "rote Zwiebel",
+			"itemPlural": "rote Zwiebeln",
+			"tags": ["rote zwiebel", "rote zwiebeln", "zwiebel", "zwiebeln"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 2,
+			"unit": "EL",
+			"item": "Rotweinessig",
+			"tags": ["rotweinessig", "essig", "speiseessig"]
+		},
+		{
+			"minQuantity": 7,
+			"maxQuantity": 7,
+			"unit": "EL",
+			"item": "Olivenöl",
+			"tags": ["olivenöl", "öl", "speiseöl", "pflanzenöl"]
+		},
+		{
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"unit": "TL",
+			"item": "frische Thymianblättchen",
+			"tags": ["frische thymianblättchen", "thymian"]
+		},
+		{
+			"minQuantity": 150,
+			"maxQuantity": 150,
+			"unit": "g",
+			"item": "Datteltomaten",
+			"tags": ["datteltomaten", "datteltomate", "kirschtomate", "kirschtomaten", "tomate", "tomaten"]
+		},
+		{
+			"minQuantity": 0,
+			"maxQuantity": 0,
+			"unit": "",
+			"item": "Zucker",
+			"tags": ["zucker", "raffinade", "raffinade-zucker"]
+		}
+	],
+	"steps": [
+		{
+			"description": "Scamorza fein reiben und mit Sahne und Ei mit dem Pürierstab cremig pürieren. Mit Salz und Pfeffer würzen. Brotscheiben halbieren und in einer Schüssel mit der Scamorza-Creme mischen. 10 Minuten ziehen lassen."
+		},
+		{
+			"description": "Grüne Bohnen putzen und in Salzwasser in 7—8 Minuten bissfest garen. Die Bohnen abgießen und in kaltem Wasser abschrecken. Auf Küchenpapier abtropfen lassen."
+		},
+		{
+			"description": "Zwiebel schälen und in feine Streifen schneiden. Mit Essig, 4 EL Olivenöl und Thymianblättchen verrühren. Die Bohnen mit der Vinaigrette mischen. Tomaten halbieren und untermengen. Mit Salz, Pfeffer und 1 Prise Zucker würzen."
+		},
+		{
+			"description": "Restliches Öl in einer beschichteten Pfanne erhitzen und die leicht abgetropften Brote darin portionsweise bei mittlerer Hitze von jeder Seite 2—3 Minuten goldbraun braten. Brote mit dem Bohnensalat anrichten."
+		}
+	],
+	"type": "Recipe"
+}
